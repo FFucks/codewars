@@ -1,4 +1,4 @@
-package com.ffucks;
+package com.ffucks.stalinSort;
 
 /*Stalin Sort
 "If there is no person, there is no problem"
